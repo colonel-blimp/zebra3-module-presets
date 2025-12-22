@@ -10,6 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - New presets:
+  - 8-Tap/4t .5 Geometric Sequence Send (Horror Show).h2p
+  - 8-Tap/5t S+Dots Groove (Pseudo E-Upright Bass).h2p
   - ChannelMix 2in1/_Init (Default).h2p
   - ChannelMix 4in1/Sum - Add mod to Vol 1 (RoadsFM).h2p
   - ChannelMix 4in1/Sum - Mute Vol 3+4 (Jack Hammer).h2p
