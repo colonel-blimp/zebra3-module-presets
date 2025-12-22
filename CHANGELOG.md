@@ -50,6 +50,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Oscillator/x2 Delta Squiggles ⧛Env2⇒FX1,A⇒FX2⧚ (FM Island).h2p
 - Fixed wrong dB units in filenames to measured dB changes (details in Changed)
 - Removed extra space before source patch parentheses
+- Standardized `_<Lebel> (Init)` preset names
 
 ### Changed
 
