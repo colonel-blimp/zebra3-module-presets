@@ -9,13 +9,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- This CHANGELOG
 - New presets:
-  - LFO/Squ 1-4 (Ordered Chaos) alt - squishy.h2p
-  - Ringmod/Nasalizer (Beebop).h2p
+  - ChannelMix 2in1/_Init (Default).h2p
+  - ChannelMix 4in1/Sum - Add mod to Vol 1 (RoadsFM).h2p
+  - ChannelMix 4in1/Sum - Mute Vol 3+4 (Jack Hammer).h2p
+  - ChannelMix 4in1/Vector (808 Designer).h2p
   - Envelope/DR Tail (Fountain Mirror).h2p
   - Envelope/DSR Sudden Pad (Fountain Mirror).h2p
+  - Delay/1-4 Cross Haze Send (Follow Me).h2p
+  - Delay/1s Summed Digital Send (Cave Explorer).h2p
+  - LFO/Squ 1-4 (Ordered Chaos) alt - squishy.h2p
+  - ModFX/Chrous - 1s 4v A (Ice Stranding).h2p
+  - ModFX/Phaser - 1-1 4 Wide (Hauser Alley Techno Sequence).h2p
+  - Ringmod/Nasalizer (Beebop).h2p
   - Utility/Gain Cut -8.7dB (808 Designer).h2p
+- This CHANGELOG
 
 ### Fixed
 
@@ -34,6 +42,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Corrected/Improved filenames of presets:
   - Envelope/D Long Tail(Carribean Narcotics).h2p -> Envelope/D Looong Shot (Carribean Narcotics).h2p
   - Envelope/D Stab (Tales of the Unusual).h2p -> Envelope/DR Stab (Tales of the Unusual).h2p
+  - EQ/HPF+850 Boost (Waters of Thalwil).h2p -> High Pass 270, 870 Boost, 8.2k HSCut (Waters of Thalwil).h2p
+  - EQ/Low Shelf Boost, 1k Cut (Thwock Plastic Tom).h2p -> Low Shelf Boost 119, 1k Cut (Thwock Plastic Tom).h2p
+  - EQ/Low Shelf Cut + 1.1k Boost (Vectra).h2p -> Low Shelf Cut 112, 1.1k Boost (Vectra).h2p
+
   - Envelope/ADSR Keys (Azimuth Zither).h2p -> Envelope/DSR Keys (Azimuth Zither).h2p
   - Filter/LP12 Tellow (CoZy 101).h2p -> Filter/LP12 Yellow (CoZy 101).h2p
   - FX Grid/-2db Limiter (Broadband Sound Calligraphy IV).h2p -> FX Grid/-2dB Limiter (Broadband Sound Calligraphy IV).h2p
