@@ -115,4 +115,4 @@ Hopefully the abbreviations make sense.  Some examples:
 | `FX1` | Osciallator FX1 |
 | `FX2` | Osciallator FX2 |
 
-* Some lesser-known unicode characters are used to replace characters the Zebra 3 preset saving mechanism claims are not valid for presets.  This is why you will se `⇒` instead of `=`, and `⧛`/``⧚` inseatch of square brackets.
+* Some lesser-known unicode characters are used to replace characters the Zebra 3 preset saving mechanism claims are not valid for presets.  This is why you will se `⇒` instead of `=`, and `⧛`/`⧚` inseatch of square brackets.
