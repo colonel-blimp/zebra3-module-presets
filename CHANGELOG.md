@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - LFO/Squ 1-4 (Ordered Chaos) alt - squishy.h2p
   - Mapper/008s Inc ModMix+Q Me on Pitch \342\247\233LFO1\342\247\232 (Flow) 1.h2p
   - Mapper/008s Inc ModMix+Q Me on Pitch \342\247\233LFO1\342\247\232 (Flow) 2.h2p
-  - ModFX/Chrous - 1s 4v A (Ice Stranding).h2p
+  - ModFX/Chorus - 1s 4v A (Ice Stranding).h2p
   - ModFX/Flanger - 1s A Inv (Floppy FM).h2p
   - ModFX/Phaser - 1-1 4 Wide (Hauser Alley Techno Sequence).h2p
   - Ringmod/Nasalizer (Beebop).h2p
