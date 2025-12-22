@@ -19,11 +19,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Increase vol/amplitude in initially silent generators:
+- Increase vol/amplitude/dry in initially silent generators:
+  - Delay/0.1s Cross Stereo (Blechglocke)
+  - Delay/1-8D Stereo Haze (Talkie Basie).h2p
   - Noise/Digital Constant - LHPF (Gates Of Whatever).h2p
   -	Noise/Static Constant - HPF (Lost Valley).h2p
-  - Oscillator/x2 Delta Squiggles ⧛Env2⇒FX1,A⇒FX2⧚ (FM Island).h2p
   - Oscillator/Flowering Coil ⧛LFO2⇒FX2⧚ (Rootkit).h2p
+  - Oscillator/x2 Delta Squiggles ⧛Env2⇒FX1,A⇒FX2⧚ (FM Island).h2p
 - Fixed wrong dB units in filenames to measured dB changes (details in Changed)
 
 ### Changed
