@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Ringmod/Nasalizer (Beebop).h2p
   - Envelope/DR Tail (Fountain Mirror).h2p
   - Envelope/DSR Sudden Pad (Fountain Mirror).h2p
+  - Utility/Gain Cut -8.7dB (808 Designer).h2p
 
 ### Fixed
 
