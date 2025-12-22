@@ -29,7 +29,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
-- Increase vol/amplitude/dry in initially silent generators:
+- Increased vol/amplitude/dry/wet in silent/inert modules:
   - Delay/0.1s Cross Stereo (Blechglocke)
   - Delay/1-8D Stereo Haze (Talkie Basie).h2p
   - ModFX/Chorus - JUNO-60 Type I (CoZy 101).h2p
@@ -41,7 +41,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Appended 'Send' to names of FX presets in FXGrid with 100% wet
 - Corrected/Improved filenames of presets:
+  - Delay/1s Summed Digital (Cave Explorer).h2p -> Delay/1s Summed Digital Send (Cave Explorer).h2p
   - Envelope/D Long Tail(Carribean Narcotics).h2p -> Envelope/D Looong Shot (Carribean Narcotics).h2p
   - Envelope/D Stab (Tales of the Unusual).h2p -> Envelope/DR Stab (Tales of the Unusual).h2p
   - EQ/HPF+850 Boost (Waters of Thalwil).h2p -> High Pass 270, 870 Boost, 8.2k HSCut (Waters of Thalwil).h2p
