@@ -32,7 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Increased vol/amplitude/dry/wet in silent/inert modules:
   - Delay/0.1s Cross Stereo (Blechglocke)
   - Delay/1-8D Stereo Haze (Talkie Basie).h2p
-  - ModFX/Chorus - JUNO-60 Type I (CoZy 101).h2p
+  - ModFX/Chorus - 1s 3v D - JUNO-60 Type I (CoZy 101).h2p
   - Noise/Digital Constant - LHPF (Gates Of Whatever).h2p
   -	Noise/Static Constant - HPF (Lost Valley).h2p
   - Oscillator/Flowering Coil ⧛LFO2⇒FX2⧚ (Rootkit).h2p
@@ -41,6 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Prepend standard properties to pre-named preset filenames
 - Appended 'Send' to names of FX presets in FXGrid with 100% wet
 - Corrected/Improved filenames of presets:
   - Delay/1s Summed Digital (Cave Explorer).h2p -> Delay/1s Summed Digital Send (Cave Explorer).h2p
@@ -53,6 +54,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Envelope/ADSR Keys (Azimuth Zither).h2p -> Envelope/DSR Keys (Azimuth Zither).h2p
   - Filter/LP12 Tellow (CoZy 101).h2p -> Filter/LP12 Yellow (CoZy 101).h2p
   - FX Grid/-2db Limiter (Broadband Sound Calligraphy IV).h2p -> FX Grid/-2dB Limiter (Broadband Sound Calligraphy IV).h2p
+  - LFO/BT Shimmer Vibrato (Ordered Chaos).h2p -> LFO/Tri 0.1s BT Shimmer Vibrato (Ordered Chaos).h2p
+  - ModFX/Chorus - JUNO-60 Type I (CoZy 101).h2p -> ModFX/Chorus - 1s 3v D - JUNO-60 Type I (CoZy 101).h2p
+
   - Utility/Gain Cut -72dB (Longing).h2p -> Utility/Gain Cut -11.1dB, Boost +12dB (Longing).h2p
     - -72 on the dial did _not_ mean -72dB!
     - According to the Z3 manual, the gain utility ranges from silence to +6dB, with Boost adding +12dB "unless Gain is set very low."
