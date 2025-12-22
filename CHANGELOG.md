@@ -16,7 +16,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Envelope/DR Tail (Fountain Mirror).h2p
   - Envelope/DSR Sudden Pad (Fountain Mirror).h2p
 
-
 ### Fixed
 
 - Increase vol/amplitude in initially silent generators:
@@ -33,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Envelope/D Stab (Tales of the Unusual).h2p -> Envelope/DR Stab (Tales of the Unusual).h2p
   - Envelope/ADSR Keys (Azimuth Zither).h2p -> Envelope/DSR Keys (Azimuth Zither).h2p
   - Filter/LP12 Tellow (CoZy 101).h2p -> Filter/LP12 Yellow (CoZy 101).h2p
+  - FX Grid/-2db Limiter (Broadband Sound Calligraphy IV).h2p -> FX Grid/-2dB Limiter (Broadband Sound Calligraphy IV).h2p
   - Utility/Gain Cut -72dB (Longing).h2p -> Utility/Gain Cut -11.1dB, Boosted +12dB (Longing).h2p
     - -72 on the dial did _not_ mean -72dB!
     - According to the Z3 manual, the gain utility ranges from silence to +6dB, with Boost adding +12dB "unless Gain is set very low."
