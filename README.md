@@ -6,19 +6,15 @@ Collection Version: **1.0.0**
 
 This is a collection of **329** .h2p **Module Preset files** for the Zebra 3 beta's various generator/modulator/effect modules.  Module presets are the ones you can save/load from the various modules' panels by clicking on their downwards-pointing arrow icon (" **˅** ").  They are _not_ instrument presets.
 
+
 ## Background
 
-Zebra 3.0.0 beta rev 20399 comes with a whopping **300** example instrument presets, created by a variety of skilled synth designers.  But it doesn't include any _module presets_, apart from 2 basic presets for the Oscillator module.  <!--Totally understable for a beta under heavy development, but beta testers in the KVR forums have mentioned missing them.-->
+Zebra 3.0.0 beta rev 20399 comes with a whopping **300** example instrument presets, created by a variety of skilled synth designers.  But it doesn't include any _module presets_, apart from 2 basic presets for the Oscillator module.
 
 To close that gap for the present, I've gone through the beta's example instruments and dumped a variety of presets for each module!  
 
 There's not much original work other than naming presets and adjusting a few baked-in modulator settings to make them more general-preset-friendy.
 
-<!--
-The lack of module presets in a beta release is totally understandable—creating useful general-purpose presets takes a lot of thought and work, there are a lot of modules to make preset for, and Zebra 3 is still under heavy development.  In fact, there's really no guarantee that a module preset made for this first beta revision won't have been invalidated by subsequent developments by the time Zebra 3 reaches its final release!  
-
-However, testers in the KVR forum beta-testing threads have mentioned wanting module presets, which also makes sense—if you're going to test a bunch of new and complicated modules it would help to have some examples of what can be done.
--->
 
 ## What's included
 
@@ -115,4 +111,4 @@ Hopefully the abbreviations make sense.  Some examples:
 | `FX1` | Osciallator FX1 |
 | `FX2` | Osciallator FX2 |
 
-* Some lesser-known unicode characters are used to replace characters the Zebra 3 preset saving mechanism claims are not valid for presets.  This is why you will se `⇒` instead of `=`, and `⧛`/`⧚` inseatch of square brackets.
+* Some lesser-known unicode characters are used to replace characters the Zebra 3 preset saving mechanism claims are not valid for presets.  This is why you will se `⇒` instead of `=`, and `⧛`/`⧚` instead of square brackets.
