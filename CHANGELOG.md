@@ -16,15 +16,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - ChannelMix 4in1/Sum - Add mod to Vol 1 (RoadsFM).h2p
   - ChannelMix 4in1/Sum - Mute Vol 3+4 (Jack Hammer).h2p
   - ChannelMix 4in1/Vector (808 Designer).h2p
+  - Delay/1-4 Cross Haze Send (Follow Me).h2p
+  - Delay/1-8 Cross Digital (Fly-By).h2p
+  - Delay/1-8D Cross Surge Send (Flow).h2p
+  - Delay/1s Summed Digital Send (Cave Explorer).h2p
   - Envelope/DR Tail (Fountain Mirror).h2p
   - Envelope/DSR Sudden Pad (Fountain Mirror).h2p
-  - Delay/1-4 Cross Haze Send (Follow Me).h2p
-  - Delay/1s Summed Digital Send (Cave Explorer).h2p
+  - EQ/Low Shelf Cut 101 (Flip Side).h2p
+  - Filter/AP 11P \342\247\233LFO2\342\247\232 (Floating Void).h2p
   - LFO/Squ 1-4 (Ordered Chaos) alt - squishy.h2p
+  - Mapper/008s Inc ModMix+Q Me on Pitch \342\247\233LFO1\342\247\232 (Flow) 1.h2p
+  - Mapper/008s Inc ModMix+Q Me on Pitch \342\247\233LFO1\342\247\232 (Flow) 2.h2p
   - ModFX/Chrous - 1s 4v A (Ice Stranding).h2p
+  - ModFX/Flanger - 1s A Inv (Floppy FM).h2p
   - ModFX/Phaser - 1-1 4 Wide (Hauser Alley Techno Sequence).h2p
   - Ringmod/Nasalizer (Beebop).h2p
   - Utility/Gain Cut -8.7dB (808 Designer).h2p
+  - Wavefolder/16Sin \342\247\233MSEG1\342\207\222Amount,Bias\342\247\232 (Flip Side).h2p
+  - Wavefolder/8Sin \342\247\233A\342\207\222FB\342\247\232 (Floating Void).h2p
 - This CHANGELOG
 
 ### Fixed
