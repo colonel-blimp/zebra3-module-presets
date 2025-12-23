@@ -8,7 +8,7 @@ This is a collection of **358** .h2p **<ins>Module</ins>  Preset files** for the
 
 
 ## What these are
-I keep underlining  `<ins>module</ins>` here to make it clear that these are <ins>module</ins> presets and _not <ins>instrument</ins> presets_ (the Z3 beta already comes with 300 of those). <ins>Module</ins> presets work with Zebra 3's various generator/modulator/effect <ins>modules</ins>, which you can save/load/select from their panels' little downward-pointing arrow.
+I keep underlining `<ins>module</ins>` here to make it clear that these are <ins>module</ins> presets and _not <ins>instrument</ins> presets_ (the Z3 beta already comes with 300 of those). <ins>Module</ins> presets work with Zebra 3's various generator/modulator/effect <ins>modules</ins>, which you can save/load/select from their panels' little downward-pointing arrow.
 
 Or you _could_... except this first beta didn't come with any module presets (apart from two basic Oscillator WTs)! That's totally understandable for a monster synth that's still under heavy internal development, however testers in the beta thread mentioned missing them—so I dumped these as examples from the various instrument presets.
 
@@ -52,12 +52,10 @@ Hopefully the abbreviations make sense.  Some examples:
 | `MW`  | Mod Wheel       |
 | `KF`  | Key Follower    |
 | `CM`  | Curve Morph     |
-| `FX1` | Osciallator FX1 |
-| `FX2` | Osciallator FX2 |
+| `FX1` | Oscillator FX1 |
+| `FX2` | Oscillator FX2 |
 
-* You may also notice some lesser-known unicode characters. They are used to replace characters that are not valid for preset filenames. This is why you will se `⇒` instead of `=`, and `⧛`/`⧚` instead of square brackets.
-
-
+* You may also notice some lesser-known Unicode characters. They are used to replace characters that are not valid for preset filenames. This is why you will use `⇒` instead of `=`, and `⧛`/`⧚` instead of square brackets.
 
 
 ## What's included
@@ -93,7 +91,6 @@ At present, this collection contains presets for  **26** Zebra 3 modules, with a
 | Ringmod         |       4 |
 | Reverb          |       3 |
 | 8-Tap           |       2 |
-
 <!-- preset summary end -->
 
 At least on my systems' various screen resolutions, I've found that 49 presets is a good maximum quantity for a single module, After that, you have to scroll the popup menu to get to additional items and it becomes increasingly cumbersome to browse.
@@ -101,15 +98,15 @@ At least on my systems' various screen resolutions, I've found that 49 presets i
 It Zebra 3's module preset popup supported nested folders in module preset popups, this wouldn't a problem.  But for now (Z3 beta rev 20399), it doesn't.  If a later revision adds that capability, it will open doors to many more presets and _much_ better organization for many modules.
 
 ## What's missing
+
 There currently remain **~~2~~** (**0?**) module directories without any .h2p presets:
 - ~~CPUBurner~~\*
 - ~~OscFX~~\*
 
-\* = (Although `OscFx/` and `CPUBurner/` folders exist under `Zebra3.data/Modules/`, I haven't seen any indication that it's actrually possible to save/load presets for individual Oscillator FX or the CPU Burner.)
+\* = (Although `OscFx/` and `CPUBurner/` folders exist under `Zebra3.data/Modules/`, I haven't seen any indication that it's actually possible to save/load presets for individual Oscillator FX or the CPU Burner.)
 
 
-
-## Installation
+## Installing
 
 Merge these module preset folders under `Zebra3.data/Modules/`
 
@@ -120,4 +117,14 @@ Merge these module preset folders under `Zebra3.data/Modules/`
   * Example: `/home/users/YOURUSERNAME/.u-he/Zebra3/Modules/`
   * Example (Ubuntu): `/home/YOURUSERNAME/.u-he/Zebra3/Modules/`
 
+## Upgrading
+
+Remove all subdirectories under `Zebra3.data/Modules/` and replace them with the module preset subdirectories in this collection.
+
+* MacOS: `MacHD/Library/Application Support/u-he/Zebra3/Modules/`
+* Windows: `%USERPROFILE%\Documents\u-he\Zebra3.data\Modules\`
+  * Example: `C:\Users\YOURUSERNAME\Documents\u-he\Zebra3.data\Modules\`
+* Linux: `~/.u-he/Zebra3/Modules/`
+  * Example: `/home/users/YOURUSERNAME/.u-he/Zebra3/Modules/`
+  * Example (Ubuntu): `/home/YOURUSERNAME/.u-he/Zebra3/Modules/`
 
